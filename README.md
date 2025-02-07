@@ -1,0 +1,1 @@
+Welcome to the ELEVATING-LIBRARIES-WITH-KNOWLEDGE-REPOSITORIES project! This initiative focuses on creating a centralized platform for libraries to manage and share knowledge through a robust repository system.
